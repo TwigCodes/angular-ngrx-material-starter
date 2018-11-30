@@ -80,13 +80,6 @@ export const features: Feature[] = [
     documentation: 'https://fontawesome.com/icons'
   },
   {
-    name: 'Cypress',
-    version: env.versions.cypress,
-    description: 'nwcdkpi.features.cypress',
-    github: 'https://github.com/cypress-io/cypress',
-    documentation: 'https://www.cypress.io/'
-  },
-  {
     name: 'nwcdkpi.features.themes.title',
     description: 'nwcdkpi.features.themes.description',
     documentation: 'https://material.angular.io/guide/theming',

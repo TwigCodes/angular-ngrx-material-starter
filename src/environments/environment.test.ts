@@ -17,7 +17,6 @@ export const environment = {
     fontAwesome:
       packageJson.dependencies['@fortawesome/fontawesome-free-webfonts'],
     angularCli: packageJson.devDependencies['@angular/cli'],
-    typescript: packageJson.devDependencies['typescript'],
-    cypress: packageJson.devDependencies['cypress']
+    typescript: packageJson.devDependencies['typescript']
   }
 };

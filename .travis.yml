@@ -1,13 +1,13 @@
 language: node_js
 node_js:
-  - "9"
+  - '9'
 sudo: required
 dist: trusty
 addons:
   chrome: stable
 cache:
   directories:
-  - $HOME/.npm
+    - $HOME/.npm
 before_install:
   - export CHROME_BIN=chromium-browser
   - export DISPLAY=:99.0
@@ -20,6 +20,6 @@ script:
   # run build script specified in package.json
   - npm run ci
   # call script for deploying of produced artifacts
-  - bash ./.travis-deploy.sh
+  # - bash ./.travis-deploy.sh
 after_success:
   - codecov
