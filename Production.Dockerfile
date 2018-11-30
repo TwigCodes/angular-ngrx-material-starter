@@ -19,16 +19,14 @@ WORKDIR /usr/src/app
 # Build our distributable
 RUN npm run build:prod
 
-FROM node:11.1.0 as production
+FROM nginx:1.13.8-alpine
+
+## Copy our default nginx config
+COPY ./docker/nginx/conf.d/default.conf /etc/nginx/conf.d/
+
+## Remove default nginx website
+RUN rm -rf /usr/share/nginx/html/*
 # Copy the dist folder from builder
-COPY --from=builder /usr/src/app/dist /usr/src/app/dist
-COPY --from=builder /usr/src/app/server.js /usr/src/app/server.js
-# Set the work directory to where we copied our source files
-WORKDIR /usr/src/app
-RUN npm install compression@1.7.3
-RUN npm install express@4.16.4
-# Create 2 empty environment variables
-ENV CONTEXT=
-ENV PORT=
-# Run the node server which should be used for production
-CMD ["node", "server.js"]
+COPY --from=builder /usr/src/app/dist/browser /usr/share/nginx/html
+
+CMD ["nginx", "-g", "daemon off;"]
