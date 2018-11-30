@@ -1,16 +1,28 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { NgModule } from '@angular/core';
+import { NgModule, ErrorHandler } from '@angular/core';
 import { TransferHttpCacheModule } from '@nguniversal/common';
+
+import * as fundebug from 'fundebug-javascript';
 
 import { SharedModule } from '@app/shared';
 import { CoreModule } from '@app/core';
+import { environment } from '@env/environment';
 
 import { SettingsModule } from './settings';
 import { StaticModule } from './static';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+
+fundebug.apikey = environment.fundbugApiKey;
+
+// 定义FundebugErrorHandler
+export class FundebugErrorHandler implements ErrorHandler {
+  handleError(err: any): void {
+    fundebug.notifyError(err);
+  }
+}
 
 @NgModule({
   imports: [
@@ -34,7 +46,7 @@ import { AppComponent } from './app.component';
     AppRoutingModule
   ],
   declarations: [AppComponent],
-  providers: [],
+  providers: [{ provide: ErrorHandler, useClass: FundebugErrorHandler }],
   bootstrap: [AppComponent]
 })
 export class AppModule {}

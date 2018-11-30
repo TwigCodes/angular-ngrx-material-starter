@@ -33,7 +33,10 @@ export class AppComponent implements OnInit {
   version = env.versions.app;
   year = new Date().getFullYear();
   logo = require('../assets/logo.png');
-  languages = ['en', 'zh-cn'];
+  languages = [
+    { label: '中文', value: 'zh-cn' },
+    { label: 'English', value: 'en' }
+  ];
   navigation = [
     { link: 'about', label: 'nwcdkpi.menu.about' },
     { link: 'features', label: 'nwcdkpi.menu.features' },

@@ -12,6 +12,7 @@ import { readFileSync } from 'fs';
 
 // Import module map for lazy loading
 import { provideModuleMap } from '@nguniversal/module-map-ngfactory-loader';
+import { REQUEST } from '@nguniversal/express-engine/tokens';
 
 // Faster server renders w/ Prod mode (dev mode never needed)
 enableProdMode();
@@ -54,7 +55,10 @@ app.get('*.*', express.static(join(DIST_FOLDER, 'browser')));
 
 // All regular routes use the Universal engine
 app.get('*', (req, res) => {
-  res.render(join(DIST_FOLDER, 'browser', 'index.html'), { req });
+  res.render(join(DIST_FOLDER, 'browser', 'index.html'), {
+    req,
+    providers: [{ provide: REQUEST, useValue: req }]
+  });
 });
 
 // Start up the Node server

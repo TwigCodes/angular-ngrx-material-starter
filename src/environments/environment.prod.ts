@@ -18,5 +18,7 @@ export const environment = {
       packageJson.dependencies['@fortawesome/fontawesome-free-webfonts'],
     angularCli: packageJson.devDependencies['@angular/cli'],
     typescript: packageJson.devDependencies['typescript']
-  }
+  },
+  fundbugApiKey:
+    '0c08a2509adfd948ee65bce51dd2bdb88a58abfecc576a380f009bd3abf7272e'
 };
