@@ -21,7 +21,7 @@ import { SettingsState, State } from '../settings.model';
 import { selectSettings } from '../settings.selectors';
 
 @Component({
-  selector: 'anms-settings',
+  selector: 'nwcdkpi-settings',
   templateUrl: './settings-container.component.html',
   styleUrls: ['./settings-container.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush
@@ -39,11 +39,6 @@ export class SettingsContainerComponent implements OnInit {
 
   languages = [
     { value: 'en', label: 'en' },
-    { value: 'de', label: 'de' },
-    { value: 'sk', label: 'sk' },
-    { value: 'fr', label: 'fr' },
-    { value: 'es', label: 'es' },
-    { value: 'pt-br', label: 'pt-br' },
     { value: 'zh-cn', label: 'zh-cn' }
   ];
 

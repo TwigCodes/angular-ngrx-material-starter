@@ -6,7 +6,7 @@
         <name></name>
         <children>
             <folder_node>
-                <name>anms</name>
+                <name>nwcdkpi</name>
                 <children>
                     <folder_node>
                         <name>about</name>
@@ -19,27 +19,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -56,27 +36,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -96,27 +56,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -133,27 +73,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -170,27 +90,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -207,27 +107,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -244,27 +124,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -281,27 +141,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -318,27 +158,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -360,27 +180,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -397,27 +197,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -434,27 +214,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -473,27 +233,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -515,27 +255,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -552,27 +272,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -589,27 +289,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -626,27 +306,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -663,27 +323,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -700,27 +340,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -737,27 +357,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -774,27 +374,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -814,27 +394,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -851,27 +411,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -890,27 +430,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -927,27 +447,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -964,27 +464,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1004,27 +484,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -1041,27 +501,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -1080,27 +520,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1117,27 +537,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1159,27 +559,24 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
-                                        <language>es-ES</language>
+                                        <language>zh-CN</language>
                                         <approved>false</approved>
                                     </translation>
+                                </translations>
+                            </concept_node>
+                            <concept_node>
+                                <name>company</name>
+                                <definition_loaded>false</definition_loaded>
+                                <description></description>
+                                <comment></comment>
+                                <default_text></default_text>
+                                <translations>
                                     <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
+                                        <language>en-GB</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1201,27 +598,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1243,27 +620,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1280,27 +637,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1317,27 +654,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1354,27 +671,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1391,27 +688,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1428,27 +705,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -1473,27 +730,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -1510,27 +747,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -1547,27 +764,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -1592,27 +789,7 @@
                                                 <default_text></default_text>
                                                 <translations>
                                                     <translation>
-                                                        <language>de-DE</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
                                                         <language>en-GB</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>es-ES</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>fr-FR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>pt-BR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>sk-SK</language>
                                                         <approved>false</approved>
                                                     </translation>
                                                     <translation>
@@ -1629,27 +806,7 @@
                                                 <default_text></default_text>
                                                 <translations>
                                                     <translation>
-                                                        <language>de-DE</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
                                                         <language>en-GB</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>es-ES</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>fr-FR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>pt-BR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>sk-SK</language>
                                                         <approved>false</approved>
                                                     </translation>
                                                     <translation>
@@ -1666,27 +823,7 @@
                                                 <default_text></default_text>
                                                 <translations>
                                                     <translation>
-                                                        <language>de-DE</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
                                                         <language>en-GB</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>es-ES</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>fr-FR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>pt-BR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>sk-SK</language>
                                                         <approved>false</approved>
                                                     </translation>
                                                     <translation>
@@ -1703,27 +840,7 @@
                                                 <default_text></default_text>
                                                 <translations>
                                                     <translation>
-                                                        <language>de-DE</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
                                                         <language>en-GB</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>es-ES</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>fr-FR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>pt-BR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>sk-SK</language>
                                                         <approved>false</approved>
                                                     </translation>
                                                     <translation>
@@ -1740,27 +857,7 @@
                                                 <default_text></default_text>
                                                 <translations>
                                                     <translation>
-                                                        <language>de-DE</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
                                                         <language>en-GB</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>es-ES</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>fr-FR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>pt-BR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>sk-SK</language>
                                                         <approved>false</approved>
                                                     </translation>
                                                     <translation>
@@ -1777,27 +874,7 @@
                                                 <default_text></default_text>
                                                 <translations>
                                                     <translation>
-                                                        <language>de-DE</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
                                                         <language>en-GB</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>es-ES</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>fr-FR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>pt-BR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>sk-SK</language>
                                                         <approved>false</approved>
                                                     </translation>
                                                     <translation>
@@ -1814,27 +891,7 @@
                                                 <default_text></default_text>
                                                 <translations>
                                                     <translation>
-                                                        <language>de-DE</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
                                                         <language>en-GB</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>es-ES</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>fr-FR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>pt-BR</language>
-                                                        <approved>false</approved>
-                                                    </translation>
-                                                    <translation>
-                                                        <language>sk-SK</language>
                                                         <approved>false</approved>
                                                     </translation>
                                                     <translation>
@@ -1853,27 +910,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -1890,27 +927,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -1932,27 +949,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -1969,27 +966,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -2006,27 +983,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -2043,27 +1000,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -2080,27 +1017,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -2117,27 +1034,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -2154,27 +1051,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -2191,27 +1068,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -2228,27 +1085,7 @@
                                         <default_text></default_text>
                                         <translations>
                                             <translation>
-                                                <language>de-DE</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
                                                 <language>en-GB</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>es-ES</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>fr-FR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>pt-BR</language>
-                                                <approved>false</approved>
-                                            </translation>
-                                            <translation>
-                                                <language>sk-SK</language>
                                                 <approved>false</approved>
                                             </translation>
                                             <translation>
@@ -2267,27 +1104,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -2309,27 +1126,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -2346,27 +1143,7 @@
                                 <default_text></default_text>
                                 <translations>
                                     <translation>
-                                        <language>de-DE</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
                                         <language>en-GB</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>es-ES</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>fr-FR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>pt-BR</language>
-                                        <approved>false</approved>
-                                    </translation>
-                                    <translation>
-                                        <language>sk-SK</language>
                                         <approved>false</approved>
                                     </translation>
                                     <translation>
@@ -2384,28 +1161,8 @@
     <isTemplateProject>false</isTemplateProject>
     <translation_files>
         <translation_file>
-            <language>fr-FR</language>
-            <file>fr.json</file>
-        </translation_file>
-        <translation_file>
-            <language>pt-BR</language>
-            <file>pt-br.json</file>
-        </translation_file>
-        <translation_file>
             <language>en-GB</language>
             <file>en.json</file>
-        </translation_file>
-        <translation_file>
-            <language>de-DE</language>
-            <file>de.json</file>
-        </translation_file>
-        <translation_file>
-            <language>es-ES</language>
-            <file>es.json</file>
-        </translation_file>
-        <translation_file>
-            <language>sk-SK</language>
-            <file>sk.json</file>
         </translation_file>
         <translation_file>
             <language>zh-CN</language>

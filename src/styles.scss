@@ -25,34 +25,34 @@
 @import 'app/examples/examples/examples.component.scss-theme';
 
 @mixin custom-components-theme($theme) {
-  @include anms-styles-reset-theme($theme);
-  @include anms-app-component-theme($theme);
-  @include anms-about-component-theme($theme);
-  @include anms-big-input-component-theme($theme);
-  @include anms-notifications-component-theme($theme);
-  @include anms-todos-container-component-theme($theme);
-  @include anms-stock-market-container-component-theme($theme);
-  @include anms-parent-component-theme($theme);
-  @include anms-child-component-theme($theme);
-  @include anms-examples-component-theme($theme);
+  @include nwcdkpi-styles-reset-theme($theme);
+  @include nwcdkpi-app-component-theme($theme);
+  @include nwcdkpi-about-component-theme($theme);
+  @include nwcdkpi-big-input-component-theme($theme);
+  @include nwcdkpi-notifications-component-theme($theme);
+  @include nwcdkpi-todos-container-component-theme($theme);
+  @include nwcdkpi-stock-market-container-component-theme($theme);
+  @include nwcdkpi-parent-component-theme($theme);
+  @include nwcdkpi-child-component-theme($theme);
+  @include nwcdkpi-examples-component-theme($theme);
 }
 
 .default-theme {
-  @include angular-material-theme($anms-theme);
-  @include custom-components-theme($anms-theme);
+  @include angular-material-theme($nwcdkpi-theme);
+  @include custom-components-theme($nwcdkpi-theme);
 }
 
 .light-theme {
-  @include angular-material-theme($anms-light-theme);
-  @include custom-components-theme($anms-light-theme);
+  @include angular-material-theme($nwcdkpi-light-theme);
+  @include custom-components-theme($nwcdkpi-light-theme);
 }
 
 .black-theme {
-  @include angular-material-theme($anms-black-theme);
-  @include custom-components-theme($anms-black-theme);
+  @include angular-material-theme($nwcdkpi-black-theme);
+  @include custom-components-theme($nwcdkpi-black-theme);
 }
 
 .nature-theme {
-  @include angular-material-theme($anms-nature-theme);
-  @include custom-components-theme($anms-nature-theme);
+  @include angular-material-theme($nwcdkpi-nature-theme);
+  @include custom-components-theme($nwcdkpi-nature-theme);
 }
